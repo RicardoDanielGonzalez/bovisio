@@ -4,7 +4,7 @@ export const LANGUAGES = {
   es: "Español",
   en: "English",
   it: "Italiano",
-  pt: "Portugês"
+  pt: "Português"
 };
 
 export const LANGUAGES_KEYS = Object.keys(LANGUAGES) as UiType[];
