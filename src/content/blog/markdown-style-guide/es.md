@@ -1,9 +1,9 @@
 ---
 title: 'Guía de Estilo Markdown'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
+description: ''
 pubDate: 'Jul 01 2022'
 heroImage: '/blog-placeholder-1.jpg'
-author: 'Me'
+author: 'Santiago Bovisio'
 lang: 'es'
 ---
 
