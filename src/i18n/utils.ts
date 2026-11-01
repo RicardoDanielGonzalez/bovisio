@@ -1,14 +1,15 @@
 import { ui } from "./ui";
 
 export const LANGUAGES = {
-  en: "English",
-  fr: "Français",
   es: "Español",
+  en: "English",
+  it: "Italiano",
+  pt: "Portugês"
 };
 
 export const LANGUAGES_KEYS = Object.keys(LANGUAGES) as UiType[];
 
-export const DEFAULT_LANG = "en";
+export const DEFAULT_LANG = "es";
 
 export type UiType = keyof typeof ui;
 
